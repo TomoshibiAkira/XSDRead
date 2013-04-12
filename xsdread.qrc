@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>factory.xml</file>
+        <file>factory.xsd</file>
+    </qresource>
+</RCC>

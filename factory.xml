@@ -1,0 +1,89 @@
+<?xml version="1.0"?>
+<FACTORY>
+        <WORKSHOP id="1" pic="workshop.jpg">
+		<axis>
+			<x>14</x>
+			<y>23</y>
+		</axis>
+                <PIPELINE id="1" pic="pipeline.jpg">
+			<axis>
+				<x>14</x>
+				<y>23</y>
+			</axis>
+                        <DEVICE id="1" pic="device.jpg">
+				<axis>
+					<x>14</x>
+					<y>23</y>
+				</axis>
+                                <SENSOR id="1" pic="sensor.jpg">
+					<axis>
+						<x>14</x>
+						<y>23</y>
+					</axis>
+					<VALUE>44</VALUE>
+				</SENSOR>
+                 <SENSOR id="2" pic="sensor.jpg">
+					<axis>
+						<x>34</x>
+						<y>23</y>
+					</axis>
+					<VALUE>212</VALUE>
+				</SENSOR>
+                                <SENSOR id="3" pic="sensor.jpg">
+					<axis>
+						<x>54</x>
+						<y>23</y>
+					</axis>
+					<VALUE>411</VALUE>
+				</SENSOR>
+                                <SENSOR id="4" pic="sensor.jpg">
+					<axis>
+						<x>74</x>
+						<y>23</y>
+					</axis>
+					<VALUE>123</VALUE>
+				</SENSOR>
+                                <SENSOR id="5" pic="sensor.jpg">
+					<axis>
+						<x>14</x>
+						<y>3</y>
+					</axis>
+					<VALUE>32</VALUE>
+				</SENSOR>
+			</DEVICE>
+        </PIPELINE>
+                <PIPELINE id="2" pic="pipeline.jpg">
+			<axis>
+				<x>10</x>
+				<y>23</y>
+			</axis>
+                        <DEVICE id="2" pic="device.jpg">
+				<axis>
+					<x>14</x>
+					<y>23</y>
+				</axis>
+                                <SENSOR id="1" pic="sensor.jpg">
+					<axis>
+						<x>14</x>
+						<y>23</y>
+					</axis>
+					<VALUE>44</VALUE>
+				</SENSOR>
+                                <SENSOR id="2" pic="sensor.jpg">
+					<axis>
+						<x>15</x>
+						<y>23</y>
+					</axis>
+					<VALUE>212</VALUE>
+				</SENSOR>
+                                <SENSOR id="3" pic="sensor.jpg">
+					<axis>
+						<x>16</x>
+						<y>23</y>
+					</axis>
+					<VALUE>411</VALUE>
+				</SENSOR>
+			</DEVICE>
+        </PIPELINE>
+	</WORKSHOP>
+</FACTORY>
